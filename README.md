@@ -4,7 +4,7 @@
 
 <p align="center">Um jogo de plataforma sobre um sapinho que atravessa o mundo atrás do pergaminho que o vô dele contou.</p>
 
-<p align="center"><b><a href="../../releases/latest">⬇️ Baixar o jogo (Windows)</a></b></p>
+<p align="center"><b><a href="https://github.com/ielgomesjf-web/Ribbat/releases/latest">⬇️ Baixar o jogo (Windows)</a></b></p>
 
 ![O mapa do mundo](imagens/mapa.png)
 
@@ -18,8 +18,8 @@ A história é contada em **quadrinhos sem texto**.
 
 ## Como baixar e jogar
 
-1. Entre em **[Releases](../../releases/latest)** e baixe um dos dois:
-   - **`Instalar Ribbat.exe`**: instala o jogo, cria atalho na Área de Trabalho e no menu Iniciar, e aparece em
+1. Entre em **[Releases](https://github.com/ielgomesjf-web/Ribbat/releases/latest)** e baixe um dos dois:
+   - **`Instalar-Ribbat.exe`**: instala o jogo, cria atalho na Área de Trabalho e no menu Iniciar, e aparece em
      "Aplicativos instalados" pra desinstalar.
    - **`Ribbat.exe`**: o jogo direto, sem instalar. É só abrir e jogar.
 2. Na primeira vez, o Windows pode mostrar **"O Windows protegeu o computador"**. Isso acontece com qualquer jogo
